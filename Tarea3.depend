@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1406679674 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea3/Evaluador.cpp
+	"Evaluador.h"
+
+1406679514 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea3/Evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1406679683 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea3/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1414199427 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea3/Evaluador.cpp
+	"Evaluador.h"
+
+1414197581 /home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea3/Evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1414199195 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea3/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1422485535 source:/home/turupawn/Projects/Clases/Estructura/Tarea3/Evaluador.cpp
+	"Evaluador.h"
+
+1422485427 /home/turupawn/Projects/Clases/Estructura/Tarea3/Evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1422485526 source:/home/turupawn/Projects/Clases/Estructura/Tarea3/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1422487706 source:c:\users\the sorrow\documents\github\estructura3\evaluador.cpp
+	"Evaluador.h"
+
+1422487706 c:\users\the sorrow\documents\github\estructura3\evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
